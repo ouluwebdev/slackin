@@ -58,6 +58,6 @@
   "scripts": {
     "test": "mocha && eslint lib/**",
     "prepublish": "gulp",
-    "deploy": "git push -f heroku deploy:master"
+    "deploy": "git push -f origin deploy && git push -f heroku deploy:master"
   }
 }
