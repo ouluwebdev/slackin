@@ -1,6 +1,7 @@
-# slackin
+slackin [![Build Status](https://travis-ci.org/ouluwebdev/slackin.svg?branch=master)](https://travis-ci.org/ouluwebdev/slackin)
+===========
 
-A little server that enables public access to a Slack server. Like Freenode, but on Slack.
+> A little server that enables public access to a Slack server. Like Freenode, but on Slack. Originally a fork from [rauchg/slackin](https://github.com/rauchg/slackin).
 
 It provides
 
