@@ -1,8 +1,9 @@
 {
   "name": "slackin",
+  "private": true,
   "version": "0.13.0",
   "description": "Public Slack organizations made easy",
-  "repository": "rauchg/slackin",
+  "repository": "ouluwebdev/slackin",
   "main": "dist/index",
   "files": [
     "dist",
